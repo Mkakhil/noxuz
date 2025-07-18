@@ -3404,12 +3404,7 @@ hr {
   background-size: cover;
   background-attachment: fixed;
 }
-@media (max-width: 767px) {
-  .slider-area {
-    background-attachment: scroll; /* fixes iOS/Android issue */
-    background-position: center center;
-    background-size: contain; /* or cover based on preference */
-  }
+
 
 /* line 44, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption {
